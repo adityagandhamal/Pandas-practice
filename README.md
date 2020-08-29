@@ -1,6 +1,5 @@
 # About data
-The data used is police.csv
-The data has the information about police stops and the reasons for stops under the date and time recorded. 
+The data used is police.csv, it has the information about police stops and the reasons for stops under the date and time recorded. 
 
 # About project
 The notebook contains the analysis of police data (police.csv) with few pandas practices which answer the following questions:
