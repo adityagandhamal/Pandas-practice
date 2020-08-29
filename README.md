@@ -2,7 +2,7 @@
 The data used is police.csv, it has the information about police stops and the reasons for stops under the date and time recorded. 
 
 # About project
-The notebook contains the analysis of police data (police.csv) with few pandas practices which answer the following questions:
+The notebook contains the analysis of police data (police.csv) which answers the following questions:
   - Who speeds more often? Men or Women
   - Does gender affects who gets searched during a stop?
   - During the stop how often is the driver frisked?
